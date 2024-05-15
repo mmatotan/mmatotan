@@ -1,2 +1,3 @@
 my cat Sauron coding with me 
-![rsz_sauron](https://github.com/mmatotan/mmatotan/assets/38381373/ae15dd90-5e63-4710-b5bd-c2e245b6baba)
+
+![rsz_1rsz_sauron](https://github.com/mmatotan/mmatotan/assets/38381373/aeab7594-4a1d-4785-90e5-d0f9008045af)

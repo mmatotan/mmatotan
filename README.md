@@ -1,6 +1,6 @@
 👋 Hey!
 
-I am a young and ambitious software engineer specializing in backend development and DevOps. My skill set is all over the place, but for the biggest part encompasses Ruby, Linux, Docker, relational databases, cloud computing and Kubernetes(and soon NixOS 🤞).
+I am a young and ambitious software engineer specializing in backend development and DevOps. My skill set is all over the place, but for the biggest part encompasses Ruby, Linux, Docker, relational databases, cloud computing and Kubernetes.
 
 Bonus: My cat Sauron coding with me 
 
